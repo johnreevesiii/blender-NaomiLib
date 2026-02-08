@@ -109,3 +109,16 @@ Install the addon into Blender using the created zip package
 ## Special Thanks to:
 
 - Deo , Kobainkurt , Lenders18 , Melfice , TheBosZ, Merdaio
+
+## Preservation Notes (DOC)
+
+- Forked for long-term preservation of NAOMI 3D model tooling
+- Primary use case: Derby Owners Club (DOC) asset preservation
+- Applicable DOC versions: Rev C / Rev D
+- Purpose:
+  - Import NaomiLib model formats into Blender
+  - Preserve track, horse, and environment models in modern formats
+- Preservation rationale:
+  - Protects DOC visual assets from becoming lost media
+  - Enables future rendering, conversion, or engine migration
+- Fork date: 2026-02
